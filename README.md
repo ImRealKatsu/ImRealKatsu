@@ -1,6 +1,6 @@
 # Katsu
 
-Dev. Baixo nível a web — C++, Assembly, TypeScript, Next.js.
+Programo em C++, Assembly, TypeScript e Next.js.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=gnu&logoColor=white)
