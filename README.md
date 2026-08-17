@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/imrealkatsu">
-    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=39FF14" />
-  </a>
-  <a href="https://www.instagram.com/kauapd_/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" />
-  </a>
+  <a href="https://discord.gg/imrealkatsu"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=39FF14" /></a>
+  <a href="https://www.instagram.com/kauapd_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
 </p>
 
 <br/>
