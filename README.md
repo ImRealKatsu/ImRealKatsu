@@ -1,202 +1,48 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Engenharia reversa, anti-cheat e cheat/trainer pra jogos.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/imrealkatsu">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kauapd_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+## 💻 Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat_Dev-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+<br/>
+
 <div align="center">
-
-# ImRealKatsu
-
-**Programmer · Low-Level · Reverse Engineering · Game Research**
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/imrealkatsu)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/kauapd_/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/ImRealKatsu)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=1050&repeat=false&lines=Voc%C3%AAs+podem+parar+este+indiv%C3%ADduo%2C+mas+n%C3%A3o+podem+parar+todos+n%C3%B3s...+afinal%2C+somos+todos+iguais." alt="Quote" />
+  <br/>
+  <sub>— The Mentor, Manifesto Hacker (Phrack, 1986)</sub>
 </div>
-
-<br/>
-
-## `whoami`
-
-Curioso por sistemas, baixo nível e pelo que existe por trás das abstrações.
-Gosto de entender como o software funciona por dentro: memória, processos, binários, código de máquina.
-
-<br/>
-
-## Core Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/x86--64_Assembly-0D1117?style=for-the-badge&logo=gnu&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-0D1117?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
-</p>
-
-<details>
-<summary><b>Low-Level / Systems</b></summary>
-<br/>
-
-Memory Management · Operating Systems · Linux Internals · Windows Internals · Processes · Threads · Virtual Memory · Syscalls · Calling Conventions · PE · ELF · Networking · Multithreading
-
-</details>
-
-<details>
-<summary><b>Reverse Engineering</b></summary>
-<br/>
-
-Static Analysis · Dynamic Analysis · Disassembly · Debugging · Binary Analysis · Program Instrumentation · Executable Analysis
-
-</details>
-
-<details>
-<summary><b>Game Research</b></summary>
-<br/>
-
-Game Internals · Memory Analysis · Game Engine Internals · Client/Server Architecture · Debugging · Instrumentation · Anti-Cheat Research
-
-</details>
-
-<details>
-<summary>General</summary>
-<br/>
-
-Python · Go · Lua · TypeScript · Next.js
-
-</details>
-
-<br/>
-
-## Terminal
-
-```text
-$ cat /proc/interests
-> machine code
-> memory
-> binaries
-> operating systems
-> compilers
-> debuggers
-> reverse engineering
-> game internals
-> protocols
-> performance
-
-$ cat /etc/motd
-Understand the abstraction.
-Then understand what is underneath it.
-
-$ uname -a
-curiosity x86_64 reverse-engineering low-level
-```
-
-<br/>
-
-## Low-Level Mindset
-
-```text
-Application
-    │
-    ▼
-Runtime
-    │
-    ▼
-Operating System
-    │
-    ▼
-Kernel
-    │
-    ▼
-Memory
-    │
-    ▼
-Machine Code
-    │
-    ▼
-CPU
-```
-
-<br/>
-
-## Featured Projects
-
-#### 01 · x86-64 Debugger
-[PROJECT_LINK]
-
-Debugger experimental para análise de processos x86-64: inspeção de registradores, memória e execução passo a passo.
-
-`C` `Assembly`: Registers · Memory · Breakpoints · Stack · Disassembly
-
----
-
-#### 02 · Mini Disassembler
-[PROJECT_LINK]
-
-Disassembler experimental para análise de binários x86-64.
-
-`C++` `Assembly`: Machine Code · Instructions · Control Flow · Binary Analysis
-
----
-
-#### 03 · OS From Scratch
-[PROJECT_LINK]
-
-Sistema operacional experimental desenvolvido do zero para estudar arquitetura, boot, memória e execução.
-
-`C` `x86-64 Assembly`: Bootloader · Kernel · Interrupts · Paging · Memory Management
-
----
-
-#### 04 · Binary Analysis Toolkit
-[PROJECT_LINK]
-
-Ferramentas experimentais para análise de executáveis e estruturas binárias.
-
-`Rust` `C++`: PE · ELF · Sections · Symbols · Imports · Binary Diffing
-
----
-
-#### 05 · Memory Lab
-[PROJECT_LINK]
-
-Laboratório experimental para estudar gerenciamento de memória, allocators e memória virtual.
-
-`C` `C++`: Heap · Stack · Allocator · Virtual Memory · Pointers
-
----
-
-#### 06 · Reverse Engineering Labs
-[PROJECT_LINK]
-
-Laboratórios educacionais para estudar análise estática e dinâmica de binários.
-
-`C` `C++` `Assembly`: Disassembly · Debugging · Control Flow · Calling Conventions
-
-> TODO: substituir [PROJECT_LINK] pelos repositórios reais, ou remover os que ainda não existem.
-
-<br/>
-
-## `currently_exploring`
-
-- [ ] x86-64 Assembly
-- [ ] Reverse Engineering
-- [ ] Operating System Internals
-- [ ] Binary Analysis
-- [ ] Memory Management
-- [ ] Compiler Design
-- [ ] Performance Engineering
-- [ ] Game Internals
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImRealKatsu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRealKatsu&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
-</p>
-
-<br/>
-
-## Technical Philosophy
-
-> I don't just want to use the abstraction.
-> I want to understand what happens underneath it.
