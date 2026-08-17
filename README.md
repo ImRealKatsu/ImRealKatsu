@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou o Katsu 👋</h1>
+<h1 align="center">root@katsu:~# whoami</h1>
+<p align="center"><sub>engenharia reversa, sem exceções</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
@@ -6,7 +7,7 @@
 
 <p align="center">
   Engenharia reversa de binários e anti-cheat, dev de cheats/trainers e ferramentas de distribuição como o <a href="https://github.com/ImRealKatsu/kloader"><b>kloader</b></a>.<br/>
-  No resto do tempo: Python, Go e web (JS/TS/Next.js).
+  No resto do tempo: Python, Go e web (TS/Next.js).
 </p>
 
 <p align="center">
@@ -26,7 +27,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Cheat_Dev-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
@@ -37,18 +38,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
