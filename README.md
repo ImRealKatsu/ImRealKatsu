@@ -1,9 +1,5 @@
-```
-root@katsu:~# whoami
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,7 +42,7 @@ root@katsu:~# whoami
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=750&repeat=false&lines=Quando+voc%C3%AA+olha+por+muito+tempo+para+um+abismo%2C+o+abismo+tamb%C3%A9m+olha+para+voc%C3%AA." alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=950&repeat=false&lines=Quando+voc%C3%AA+olha+por+muito+tempo+para+um+abismo%2C+o+abismo+tamb%C3%A9m+olha+para+voc%C3%AA." alt="Quote" />
   <br/>
   <sub>— Nietzsche, Além do Bem e do Mal</sub>
 </div>
