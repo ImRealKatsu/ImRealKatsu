@@ -1,13 +1,14 @@
-<h1 align="center">root@katsu:~# whoami</h1>
-<p align="center"><sub>engenharia reversa, sem exceções</sub></p>
+```
+root@katsu:~# whoami
+```
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Engenharia reversa de binários e anti-cheat, dev de cheats/trainers e ferramentas de distribuição como o <a href="https://github.com/ImRealKatsu/kloader"><b>kloader</b></a>.<br/>
-  No resto do tempo: Python, Go e web (TS/Next.js).
+  Pego binário fechado e abro ele. Cheats, trainers, anti-cheat quebrado e o <a href="https://github.com/ImRealKatsu/kloader"><b>kloader</b></a> pra distribuir tudo isso.<br/>
+  Fora disso: Python, Go, e um TS/Next.js quando precisa de interface.
 </p>
 
 <p align="center">
@@ -45,9 +46,7 @@
 <br/>
 
 <div align="center">
-
-*"Errar do seu próprio jeito é melhor do que acertar do jeito dos outros."*
-<br/>
-<sub>— Dostoiévski, Notas do Subsolo</sub>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=750&repeat=false&lines=Quando+voc%C3%AA+olha+por+muito+tempo+para+um+abismo%2C+o+abismo+tamb%C3%A9m+olha+para+voc%C3%AA." alt="Quote" />
+  <br/>
+  <sub>— Nietzsche, Além do Bem e do Mal</sub>
 </div>
