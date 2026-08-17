@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Pego binário fechado e abro ele. Cheats, trainers, anti-cheat quebrado.<br/>
-  Fora disso: Python, Go, e um TS/Next.js quando precisa de interface.
+  Se tá compilado, eu já vi por dentro.
 </p>
 
 <p align="center">
