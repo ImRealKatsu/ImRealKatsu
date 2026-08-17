@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Pego binário fechado e abro ele. Cheats, trainers, anti-cheat quebrado e o <a href="https://github.com/ImRealKatsu/kloader"><b>kloader</b></a> pra distribuir tudo isso.<br/>
+  Pego binário fechado e abro ele. Cheats, trainers, anti-cheat quebrado.<br/>
   Fora disso: Python, Go, e um TS/Next.js quando precisa de interface.
 </p>
 
