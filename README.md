@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Se tá compilado, eu já vi por dentro.
+  Engenharia reversa, anti-cheat e cheat/trainer pra jogos.
 </p>
 
 <p align="center">
