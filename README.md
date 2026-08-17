@@ -4,8 +4,6 @@
 
 **Programmer · Low-Level · Reverse Engineering · Game Research**
 
-*"Se tá compilado, eu já vi por dentro."*
-
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/imrealkatsu)
@@ -19,7 +17,7 @@
 ## `whoami`
 
 Curioso por sistemas, baixo nível e pelo que existe por trás das abstrações.
-Gosto de entender como o software funciona por dentro — memória, processos, binários, código de máquina.
+Gosto de entender como o software funciona por dentro: memória, processos, binários, código de máquina.
 
 <br/>
 
@@ -123,9 +121,9 @@ CPU
 #### 01 · x86-64 Debugger
 [PROJECT_LINK]
 
-Debugger experimental para análise de processos x86-64 — inspeção de registradores, memória e execução passo a passo.
+Debugger experimental para análise de processos x86-64: inspeção de registradores, memória e execução passo a passo.
 
-`C` `Assembly` — Registers · Memory · Breakpoints · Stack · Disassembly
+`C` `Assembly`: Registers · Memory · Breakpoints · Stack · Disassembly
 
 ---
 
@@ -134,7 +132,7 @@ Debugger experimental para análise de processos x86-64 — inspeção de regist
 
 Disassembler experimental para análise de binários x86-64.
 
-`C++` `Assembly` — Machine Code · Instructions · Control Flow · Binary Analysis
+`C++` `Assembly`: Machine Code · Instructions · Control Flow · Binary Analysis
 
 ---
 
@@ -143,7 +141,7 @@ Disassembler experimental para análise de binários x86-64.
 
 Sistema operacional experimental desenvolvido do zero para estudar arquitetura, boot, memória e execução.
 
-`C` `x86-64 Assembly` — Bootloader · Kernel · Interrupts · Paging · Memory Management
+`C` `x86-64 Assembly`: Bootloader · Kernel · Interrupts · Paging · Memory Management
 
 ---
 
@@ -152,7 +150,7 @@ Sistema operacional experimental desenvolvido do zero para estudar arquitetura, 
 
 Ferramentas experimentais para análise de executáveis e estruturas binárias.
 
-`Rust` `C++` — PE · ELF · Sections · Symbols · Imports · Binary Diffing
+`Rust` `C++`: PE · ELF · Sections · Symbols · Imports · Binary Diffing
 
 ---
 
@@ -161,7 +159,7 @@ Ferramentas experimentais para análise de executáveis e estruturas binárias.
 
 Laboratório experimental para estudar gerenciamento de memória, allocators e memória virtual.
 
-`C` `C++` — Heap · Stack · Allocator · Virtual Memory · Pointers
+`C` `C++`: Heap · Stack · Allocator · Virtual Memory · Pointers
 
 ---
 
@@ -170,7 +168,7 @@ Laboratório experimental para estudar gerenciamento de memória, allocators e m
 
 Laboratórios educacionais para estudar análise estática e dinâmica de binários.
 
-`C` `C++` `Assembly` — Disassembly · Debugging · Control Flow · Calling Conventions
+`C` `C++` `Assembly`: Disassembly · Debugging · Control Flow · Calling Conventions
 
 > TODO: substituir [PROJECT_LINK] pelos repositórios reais, ou remover os que ainda não existem.
 
@@ -202,11 +200,3 @@ Laboratórios educacionais para estudar análise estática e dinâmica de binár
 
 > I don't just want to use the abstraction.
 > I want to understand what happens underneath it.
-
-<br/>
-
-<div align="center">
-
-*"Se tá compilado, eu já vi por dentro."*
-
-</div>
