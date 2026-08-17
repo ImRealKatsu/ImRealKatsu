@@ -13,7 +13,7 @@
 
 <br/>
 
-## Stack
+## 💻 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=39FF14" />
