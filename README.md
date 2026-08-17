@@ -1,3 +1,5 @@
+<p align="center">Olá, eu sou o Katsu 👋</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Reverse+Engineer;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
 </p>
@@ -13,7 +15,7 @@
 
 <br/>
 
-## 💻 Stack
+## ⚙️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF0000" />
