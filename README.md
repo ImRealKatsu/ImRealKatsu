@@ -1,11 +1,12 @@
 <h1 align="center">Olá, eu sou o Katsu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Low-Level+Developer;Game+Hacking;C+%7C+C%2B%2B+%7C+Assembly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Reverse+Engineer;Cheat+%26+Trainer+Dev;C+%7C+C%2B%2B+%7C+x86+Assembly" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Programo em C, C++, Assembly, Python, Go, JavaScript, TypeScript e Next.js.
+  Engenharia reversa de binários e anti-cheat, dev de cheats/trainers e ferramentas de distribuição como o <a href="https://github.com/ImRealKatsu/kloader"><b>kloader</b></a>.<br/>
+  No resto do tempo: Python, Go e web (JS/TS/Next.js).
 </p>
 
 <p align="center">
@@ -25,7 +26,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Hacking-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat_Dev-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
 <p align="center">
@@ -53,6 +55,8 @@
 
 <div align="center">
 
-*"Código bom é código que você entende seis meses depois."*
+*"Errar do seu próprio jeito é melhor do que acertar do jeito dos outros."*
+<br/>
+<sub>— Dostoiévski, Notas do Subsolo</sub>
 
 </div>
