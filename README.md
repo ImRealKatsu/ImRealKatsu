@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cheat_Dev-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat_Dev-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=950&repeat=false&lines=Quando+voc%C3%AA+olha+por+muito+tempo+para+um+abismo%2C+o+abismo+tamb%C3%A9m+olha+para+voc%C3%AA." alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=1050&repeat=false&lines=Voc%C3%AAs+podem+parar+este+indiv%C3%ADduo%2C+mas+n%C3%A3o+podem+parar+todos+n%C3%B3s...+afinal%2C+somos+todos+iguais." alt="Quote" />
   <br/>
-  <sub>— Nietzsche, Além do Bem e do Mal</sub>
+  <sub>— The Mentor, Manifesto Hacker (Phrack, 1986)</sub>
 </div>
